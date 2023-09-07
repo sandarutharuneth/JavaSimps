@@ -20,6 +20,7 @@ Tools:
 - BMI Calculator
 - Countdown Clock
 - Advance Password Generator
+- Basic Http Error Dictionary
 
 > Give a 🌟 to the repository btw :)
 
