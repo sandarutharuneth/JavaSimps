@@ -16,6 +16,8 @@ java Filename
 
 Tools:
 - Calculator
+- Magic 8 Ball
+- BMI Calculator
 - Countdown Clock
 - Advance Password Generator
 
